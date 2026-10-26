@@ -26,17 +26,20 @@
 
 ![Hello Kitty 1](./ASSETS/hello_kitty1.gif)
 
+
+<div align="center">I LOVE PINK HEHE</div>
+
 </div>
 
 <br/>
 
-<!-- 🎀 CLICKABLE PINK LABORATORY BUTTONS 🎀 -->
+<!-- 🎀 LABORATORY FOLDERS WITH HELLO KITTY 2 ON THE SIDE 🎀 -->
 <div align="center">
 
 ## 🧸 Laboratory Folders
 
-[![Prelims](https://img.shields.io/badge/🌸_Prelims-FFB6C1?style=for-the-badge&logoColor=white)](./Prelim)
-[![Midterms](https://img.shields.io/badge/🌷_Midterms-FFC0CB?style=for-the-badge&logoColor=white)](./Midterm)
-[![Finals](https://img.shields.io/badge/🎀_Finals-FFD1DC?style=for-the-badge&logoColor=white)](./Finals)
+| Laboratory Links | Visual |
+| :---: | :---: |
+| [![PRELIM](https://img.shields.io/badge/🌸_PRELIM-FFB6C1?style=for-the-badge&logoColor=white)](./PRELIM)<br/><br/>[![MIDTERM](https://img.shields.io/badge/🌷_MIDTERM-FFC0CB?style=for-the-badge&logoColor=white)](./MIDTERM)<br/><br/>[![FINALS](https://img.shields.io/badge/🎀_FINALS-FFD1DC?style=for-the-badge&logoColor=white)](./FINALS) | ![Hello Kitty 2](./ASSETS/hello_kitty2.gif) |
 
 </div>

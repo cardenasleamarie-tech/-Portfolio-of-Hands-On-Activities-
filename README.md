@@ -33,13 +33,23 @@
 
 <br/>
 
-<!-- 🎀 LABORATORY FOLDERS WITH HELLO KITTY 2 ON THE SIDE 🎀 -->
+<!-- 🎀 LABORATORY FOLDERS 🎀 -->
 <div align="center">
 
 ## 🧸 Laboratory Folders
 
-| Laboratory Links | Visual |
-| :---: | :---: |
-| [![PRELIM](https://img.shields.io/badge/🌸_PRELIM-FFB6C1?style=for-the-badge&logoColor=white)](./PRELIM)<br/><br/>[![MIDTERM](https://img.shields.io/badge/🌷_MIDTERM-FFC0CB?style=for-the-badge&logoColor=white)](./MIDTERM)<br/><br/>[![FINALS](https://img.shields.io/badge/🎀_FINALS-FFD1DC?style=for-the-badge&logoColor=white)](./FINALS) | ![Hello Kitty 2](./ASSETS/hello_kitty2.gif) |
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" valign="middle" style="border: none;">
+      <img src="./ASSETS/hello_kitty2.gif" width="160px" alt="Hello Kitty 2" />
+    </td>
+    <td width="30" style="border: none;"></td>
+    <td align="left" valign="middle" style="border: none;">
+      <a href="./PRELIM"><img src="https://img.shields.io/badge/🌸_PRELIM-FFB6C1?style=for-the-badge&logoColor=white" /></a><br/><br/>
+      <a href="./MIDTERM"><img src="https://img.shields.io/badge/🌷_MIDTERM-FFC0CB?style=for-the-badge&logoColor=white" /></a><br/><br/>
+      <a href="./FINALS"><img src="https://img.shields.io/badge/🎀_FINALS-FFD1DC?style=for-the-badge&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>

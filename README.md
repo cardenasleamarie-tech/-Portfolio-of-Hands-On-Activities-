@@ -4,7 +4,7 @@
 
 
 
-<img src="./ASSETS/hello_kitty3.gif" width="160px" alt="Hello Kitty 3" />![Header Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFB6C1&center=true&vCenter=true&width=550&height=70&lines=Welcome+to+My+Portfolio+💗;Data+Structures+%26+Algorithms;CPE+010+Laboratory+Repository)
+<img src="./ASSETS/hello_kitty3.gif" width="160px" alt="Hello Kitty 3" />![Header Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFB6C1&background=22151B&center=true&vCenter=true&width=550&height=70&lines=Welcome+to+My+Portfolio+💗;Data+Structures+%26+Algorithms;CPE+010+Laboratory+Repository)
 
 </div>
 
